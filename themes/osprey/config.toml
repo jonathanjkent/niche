@@ -12,7 +12,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
 [Params]
   tagline = "Moneyball for All"
   author = "Jonathan Kent"
-  description = "Sports data and analytics for any niche sport and league, no matter the level. It's Moneyball for all."
+  description = "Sports data and analytics for any niche sport or league, no matter the level. It's Moneyball for all."
   logoBig = "/images/niche_logo.png"
   logoSmall = "/images/niche_logo.png"
   favicon = "na_logo.ico"
