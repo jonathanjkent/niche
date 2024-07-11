@@ -1,0 +1,4 @@
+baseURL = 'https://nicheanalytics.org/'
+languageCode = 'en-us'
+title = 'Niche Analytics: Sports Analytics for Every Niche'
+theme = 'osprey'

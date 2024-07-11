@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Niche Analytics: Sports Analytics for Every Niche</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Niche Analytics: Sports Analytics for Every Niche</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Niche Analytics was founded by Jonathan Kent, a PhD social scientist with a passion for data analysis and a love of niche sports. Sports analytics has a bad rap these days and, frankly, it deserves it. In the beginning, advanced stats were developed by and for fans to help understand and appreciate the games they loved. But today, the tools invented on message boards have been co-opted by management consultant types.</description>
+    </item>
+    <item>
+      <title>Comeback Dynamics</title>
+      <link>http://localhost:1313/gallery/eth/</link>
+      <pubDate>Mon, 15 May 2017 22:25:02 -0700</pubDate>
+      <guid>http://localhost:1313/gallery/eth/</guid>
+      <description>Jon recently spent a year at ETH Zürich where he developed a research agenda to study comeback dynamics in soccer. What conditions lead to comebacks, and what can teams do to prevent or provoke them? In an increasingly optimized sports world, we need to understand (and protect!) those magical moments.&#xA;As a pilot project, Jon investigated the legend that a two-goal lead is the most dangerous in soccer. Believe it not, there is some truth to that old saying.</description>
+    </item>
+    <item>
+      <title>KBO Fancy Stats</title>
+      <link>http://localhost:1313/gallery/kbo/</link>
+      <pubDate>Mon, 15 May 2017 21:57:17 -0700</pubDate>
+      <guid>http://localhost:1313/gallery/kbo/</guid>
+      <description>At the start of the pandemic, when sports across Europe and America shut down, the Korean Baseball Organization played on. Naturally, those of us on lockdown tuned in and became overnight diehards. But without Fangraphs (yet) how could we put batflip-worthy bombs into context? Enter KBO Fancy Stats. What&amp;rsquo;s with the name? &amp;ldquo;Fancy stats&amp;rdquo; is a nod to the ice hockey analytics community that took barebones box scores and revolutionized how we watch the game.</description>
+    </item>
+    <item>
+      <title>Futstat.cat</title>
+      <link>http://localhost:1313/gallery/futstat/</link>
+      <pubDate>Mon, 15 May 2017 21:52:57 -0700</pubDate>
+      <guid>http://localhost:1313/gallery/futstat/</guid>
+      <description>We started Futstat.cat for fans of women&amp;rsquo;s soccer and semi-pro neighborhood clubs&amp;mdash;leagues that don&amp;rsquo;t get much attention from mainstream data journalism. Along the way, we expanded to include the full Catalan pyramid, because Barça fans need all the support they can get these days.</description>
+    </item>
+  </channel>
+</rss>
