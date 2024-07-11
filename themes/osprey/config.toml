@@ -1,5 +1,5 @@
 title = "Niche Analytics: Sports Data and Analytics for Every Niche"
-baseURL = "https://nicheanalytics.org"
+baseURL = "https://nicheanalytics.netlify.app/"
 tags = ["sports", "analytics", "data"]
 languageCode = "en-US"
 config = "config.toml"
