@@ -28,7 +28,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   #facebook = ""
 
   # Copyright and theme author credit in footer
-  copyright = true
+  copyright = false
   credit = false
 
   # Cache busting of static resources (additional set up required)
@@ -43,7 +43,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   # Choose either Formspree contact form or Basin contact form
   ajaxFormspree = false
   ajaxFormspreeGold = false
-  ajaxBasin = "https://usebasin.com/f/73643ba55784"
+  #ajaxBasin = "https://usebasin.com/f/73643ba55784"
 
   # Lazy loading with lazysizes
   lazyloading = true
@@ -56,7 +56,4 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   name = "Projects"
   url  = "/#projects"
   weight = 2
-[[menu.main]]
-  name = "Contact"
-  url  = "/#contact"
-  weight = 3
+
